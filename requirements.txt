@@ -1,0 +1,7 @@
+pandas 
+pandas_ta
+numpy
+python.binance
+pyTelegramBotAPI
+mysql-connector-python
+scipy
