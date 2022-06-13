@@ -38,8 +38,8 @@ async def code_script(ticker) :
         
     
     
-    Pkey = 'f2vHhCkaQp8wyDTUpmHU3V1isXiz9i2P3ETRrccagSNjKNTBINnSc1OjGHuuDS82'
-    Skey = 'Xjx47kKNs5bdYlOqgiy9ELd4GljTMNZIlL39UTNN5EXKISbtf3bGUO4M6ZOp4sk3'    
+    Pkey = 'BQixsRUhCiM8bz7x4J0gaF91OFatuFCNIsbdA6GY9dyU4yIkV74cjvuAPf3xdQSG'
+    Skey = 'WUduXyEqwJaGM9JdyN6Z1m8kafcjeodEHFug68BO5eP32kjb2qUxKxEeu8wun6oh'    
     client = await AsyncClient.create(Pkey, Skey)
     #
     #
